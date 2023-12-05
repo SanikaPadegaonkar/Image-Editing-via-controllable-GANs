@@ -5,6 +5,7 @@ Sanika Padegaonkar (20D070069) \
 Sanket Potdar (20D070070) \
 Simran Tanwar (20D070078) \
 **Official Github repository** : https://github.com/KelestZ/Latent2im/tree/main \
+**Link to our implementation** : https://drive.google.com/drive/folders/1GYYlZWK2yyaYKxT-zJAV7dnDfe7A4Cqc?usp=sharing \
 **Our modifications** 
 1) Fixed a bug in the file train_options.py.
 The original code was giving an error because the Namespace ‘opt’ did not have certain attributes. After trying multiple things we realised that the missing attributes were present in another attribute of the Namespace ‘opt’ called ‘options’. Combining the two namespaces fixed the problem. The following code was added after line 186
