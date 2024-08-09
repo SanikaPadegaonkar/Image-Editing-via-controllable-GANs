@@ -1,5 +1,5 @@
 # Image-Editing-via-controllable-GANs
-Re-implementation and enchancement of the paper ‘Enjoy your editing: Controllable GANs for image editing via Latent Space Navigation’. \
+_Re-implementation and enchancement of the paper ‘Enjoy your editing: Controllable GANs for image editing via Latent Space Navigation’._ \
 **Team members** \
 Sanika Padegaonkar (20D070069) \
 Sanket Potdar (20D070070) \
